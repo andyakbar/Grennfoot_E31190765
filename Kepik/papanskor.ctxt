@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=papanskor
+comment0.text=\r\n\ \r\n\ Andy\r\n\ \r\n
+comment1.params=skor
+comment1.target=papanskor(int)
+comment2.params=judul\ depan\ skor
+comment2.target=void\ bikinGambar(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4

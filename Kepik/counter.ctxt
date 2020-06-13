@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=counter
+comment0.text=\r\n\ \r\nandy\r\n\ \r\n
+comment1.params=depan
+comment1.target=counter(java.lang.String)
+comment2.params=
+comment2.target=void\ gantiGambar()
+comment3.params=skor
+comment3.target=void\ tambah(int)
+comment4.params=
+comment4.target=int\ nilaiAkhir()
+comment5.params=
+comment5.target=void\ act()
+numComments=6
